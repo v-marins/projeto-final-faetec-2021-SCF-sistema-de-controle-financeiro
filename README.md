@@ -3,7 +3,7 @@
 
 ## :link: Índice
 
-- [Sobre o Projeto](#Sobre o Projeto)
+- [Sobre o Projeto](#Sobre-o-Projeto)
 - [Layout](#Layout)
 - [Features](#Features)
 
