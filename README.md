@@ -6,6 +6,9 @@
 - [Sobre o Projeto](#Sobre-o-Projeto)
 - [Layout](#Layout)
 - [Features](#Features)
+- [Tecnologias Utilizadas](#Tecnologias-utilizadas)
+- [Como Executar o Projeto](#Como-executar-o-projeto)
+- [Autor](#Autor)
 
 
 ## :bookmark_tabs: Sobre o Projeto
