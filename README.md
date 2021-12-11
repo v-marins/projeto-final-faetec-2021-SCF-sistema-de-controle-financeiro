@@ -42,10 +42,9 @@ Paradigm, O modelo físico do banco foi gerado na própria ferramenta MySQL Work
 ## :computer: Como executar o projeto
 Pré-requisitos:
 
-```bash
+```
 
-Sistema operacional
-Microsoft Windows 7 Service Pack 2 ou mais recente,Linux ou Mac.
+Sistema operacional Microsoft Windows 7 Service Pack 2 ou mais recente,Linux ou Mac.
 
 Pacote Java JDK 8 instalado.
 
