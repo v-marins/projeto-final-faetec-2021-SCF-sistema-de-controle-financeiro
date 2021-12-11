@@ -52,4 +52,4 @@ exemplo
 
 ## :raising_hand: Autor
 Vinicius Marins
-Linkedin:
+\[Linkedin](https://www.linkedin.com/in/vinicius-marins/) 
