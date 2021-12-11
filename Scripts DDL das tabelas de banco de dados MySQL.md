@@ -1,4 +1,4 @@
-# Scripts DDL das tabelas de banco de dados
+# Scripts DDL das tabelas de banco de dados - MySQL
 
 ~~~~sql
 create database if not exists scf_controlefinanceiro;
