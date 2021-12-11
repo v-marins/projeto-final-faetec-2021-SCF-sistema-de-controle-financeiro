@@ -47,13 +47,22 @@ Pré-requisitos:
 Sistema operacional
 Microsoft Windows 7 Service Pack 2 ou mais recente,Linux ou Mac.
 
-Pacote Java JDK 8 instalado
+Pacote Java JDK 8 instalado.
 
-IDE Netbeans 8.2 instalado
+IDE Netbeans 8.2 instalado.
 
-MySQL versão 8 e MySQL WorkBench 8 CE instalados
+MySQL versão 8 e MySQL WorkBench 8 CE instalados.
 
 ```
+
+Após todas as intalações:
+
+- Crie o banco de dados utilizando esse script [AQUI](https://github.com/v-marins/projeto-final-faetec-2021-SCF-sistema-de-controle-financeiro/blob/48e583f13df7d4ff7c502c25722752f3cfa9fe4e/Scripts%20DDL%20das%20tabelas%20de%20banco%20de%20dados%20MySQL.md)
+- Faça o download do projeto.
+- Adicione o conector que se encontra no diretório *src/driver* às depêndencias do projeto.
+- Adicione a biblioteca rs2xml que se encontra no diretório *src/rs2xml* às depêndencias do projeto.
+- Altere as informaçoes de *user* e *pass* na classe *src/dal/ModuloConexao* com as informações referentes ao BD instalado na máquina local.
+- Execute o projeto.
 
 
 ## :raising_hand: Autor
