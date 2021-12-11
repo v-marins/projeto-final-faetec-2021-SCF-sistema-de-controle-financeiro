@@ -4,7 +4,7 @@
  
 <h1 align=center> SCF Controle Financeiro - Projeto Final FAETEC 2021 </h1>
 
-<h3 align=center><i>(Em Construção :construction:)</i></h3>
+<h3 align=center><i>~Em Construção :construction:~</i></h3>
 
 ## :link: Índice
 
