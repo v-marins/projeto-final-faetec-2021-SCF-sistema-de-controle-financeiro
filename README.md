@@ -31,20 +31,15 @@ Paradigm, O modelo físico do banco foi gerado na própria ferramenta MySQL Work
 ## :art: Layout
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/58406515/145662820-0e1bacf2-ee18-41f4-bfb4-dbb570b7c058.png" width="500" />
- <p/>
+ <img src="https://user-images.githubusercontent.com/58406515/145662820-0e1bacf2-ee18-41f4-bfb4-dbb570b7c058.png" width="500" /> <p/>
  <p align="center">
- <img src="https://user-images.githubusercontent.com/58406515/145663344-31927cb3-a38e-49d8-9c0b-5fa27df38791.png" width="500" /> 
- <p/>
+ <img src="https://user-images.githubusercontent.com/58406515/145663344-31927cb3-a38e-49d8-9c0b-5fa27df38791.png" width="500" /> <p/>
  <p align="center">
- <img src="https://user-images.githubusercontent.com/58406515/145663369-86497d21-f209-4924-bd1e-e42e2be4f355.png" width="500" />
- <p/>
+ <img src="https://user-images.githubusercontent.com/58406515/145663369-86497d21-f209-4924-bd1e-e42e2be4f355.png" width="500" /> <p/>
  <p align="center">
- <img src="https://user-images.githubusercontent.com/58406515/145663399-e5d8f718-8aa2-42f8-bdee-2e4c390d9145.png" width="500" />
- <p/>
+ <img src="https://user-images.githubusercontent.com/58406515/145663399-e5d8f718-8aa2-42f8-bdee-2e4c390d9145.png" width="500" /> <p/>
  <p align="center">
- <img src="https://user-images.githubusercontent.com/58406515/145663411-ea55c2a3-bf29-401c-acc6-a24f6d36eedf.png" width="500" />
-</p>
+ <img src="https://user-images.githubusercontent.com/58406515/145663411-ea55c2a3-bf29-401c-acc6-a24f6d36eedf.png" width="500" /> </p>
 
 ## :mega: Features
 
