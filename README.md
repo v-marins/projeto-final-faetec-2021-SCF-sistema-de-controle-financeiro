@@ -13,7 +13,7 @@
 
 ## :bookmark_tabs: Sobre o Projeto
 
-Projeto de graduação no curso técnico de informática da ISERJ - FAETEC RJ. Sistema de controle de despesas pessoais feito na linguagem Java com banco de dados MySQL.
+Trabalho de Conclusão do Curso apresentado à banca examinadora do Curso Técnico em Informática do Instituto Superior de Educação do Rio de Janeiro como requisito para a obtenção do Título de Técnico em Informática. Sistema de controle de despesas pessoais utilizando a linguagem Java e banco de dados MySQL.
 
 ## :art: Layout
 
