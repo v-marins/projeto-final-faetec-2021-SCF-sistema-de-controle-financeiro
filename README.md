@@ -2,16 +2,18 @@
  <img width=400 src='https://github.com/v-marins/projeto-final-faetec-2021-SCF-sistema-de-controle-financeiro/blob/ca0c75fb810a91b31a19d86ac751d750b9cdd55b/src/imagens/logoBig.png'/>
  </div>
  
-# SCF Controle Financeiro - Projeto Final FAETEC 2021
+<h1 align=center> SCF Controle Financeiro - Projeto Final FAETEC 2021 </h1>
+
+<h3 align=center><i>(Em Construção :construction:)</i></h3>
 
 ## :link: Índice
 
 - [Sobre o Projeto](#dart-sobre-o-projeto)
-- [Introdução](#Introdução)
-- [Layout](#Layout)
-- [Features](#Features)
-- [Tecnologias Utilizadas](#Tecnologias-utilizadas)
-- [Como Executar o Projeto](#Como-executar-o-projeto)
+- [Introdução](#bookmark_tabs-Introdução)
+- [Layout](#art-Layout)
+- [Features](#mega-Features)
+- [Tecnologias Utilizadas](#wrench-Tecnologias-utilizadas)
+- [Como Executar o Projeto](#computer-Como-executar-o-projeto)
 - [Autor](#Autor)
 
 
