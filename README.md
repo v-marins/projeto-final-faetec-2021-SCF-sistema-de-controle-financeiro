@@ -37,6 +37,7 @@ Paradigm, O modelo físico do banco foi gerado na própria ferramenta MySQL Work
 - [Java SE 8.2](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html)
 - [MySQL 8](https://dev.mysql.com/downloads/installer/)
 - [Biblioteca rs2xml](https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download)
+- [Netbeans 8.2](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
 
 ## :computer: Como executar o projeto
 Pré-requisitos:
