@@ -4,6 +4,7 @@
 ## :link: Índice
 
 - [Sobre o Projeto](#Sobre-o-Projeto)
+- [Introdução](#Introdução)
 - [Layout](#Layout)
 - [Features](#Features)
 - [Tecnologias Utilizadas](#Tecnologias-utilizadas)
@@ -11,9 +12,16 @@
 - [Autor](#Autor)
 
 
-## :bookmark_tabs: Sobre o Projeto
+## :dart: Sobre o Projeto
 
-Trabalho de Conclusão do Curso apresentado à banca examinadora do Curso Técnico em Informática do Instituto Superior de Educação do Rio de Janeiro como requisito para a obtenção do Título de Técnico em Informática. Sistema de controle de despesas pessoais utilizando a linguagem Java e banco de dados MySQL.
+Trabalho de Conclusão do Curso apresentado à banca examinadora do Curso Técnico em Informática do Instituto Superior de Educação do Rio de Janeiro como requisito para a obtenção do Título de Técnico em Informática. O objetivo do projeto é o desenvolvimento de um software desktop de controle financeiro pessoal, com ferramentas open source como a linguagem Java e o sistema gerenciador de banco de dados MySQL. O software é para que os usuários tenham controle sobre sua condição financeira, obtendo assim uma visão mais detalhada das entradas e saídas do seu “fluxo de caixa” pessoal. A intenção é oferecer um software que atenda às necessidades do usuário de maneira fácil e de rápida adaptação.
+
+## :bookmark_tabs: Introdução
+
+Para o desenvolvimento do trabalho, foi escolhido o ramo de finanças domésticas, pois alguns softwares já existentes nessa categoria de gestão financeira são complexos e tem maior foco na área empresarial. Este software foi concentrado no controle doméstico de forma simples, para que qualquer usuário possa utilizá-lo com eficácia.
+O objetivo geral foi utilizar as técnicas e conhecimentos adquiridos ao longo do curso para desenvolver um software desktop capaz de auxiliar o gerenciamento e controle de despesas pessoais utilizando a linguagem de programação Java, com banco de dados MySQL. Este software de organização financeira foi nomeado “SCF – Controle Financeiro”.
+Para realização deste trabalho utilizei como fonte de pesquisa livros, sites e vídeos referentes ao assunto de Desenvolvimento de software, além dos sites oficiais das ferramentas utilizadas. O sistema foi desenvolvido na linguagem Java utilizando o pacote de desenvolvimento JDK 8.3 com a ferramenta NetBeans 8.2, o banco de dados MySQL versão 8.0 e o sistema de gerenciamento de banco de dados MySQL WorkBench 8.0, também utilizei a biblioteca “rs2xml” para manipulação e comunicação entre as tabelas disponíveis na aplicação, o banco de dados e o java. O diagrama de classe do software e o diagrama de caso de uso foram criados a partir do software Visual
+Paradigm, O modelo físico do banco foi gerado na própria ferramenta MySQL WorkBench.
 
 ## :art: Layout
 
@@ -21,8 +29,12 @@ Trabalho de Conclusão do Curso apresentado à banca examinadora do Curso Técni
 
 ## :wrench: Tecnologias Utilizadas
 
+- Java SE 8.3
+- MySQL 8
+- Lib rs2xml
+
 ## :computer: Como executar o projeto
-Pré-requisito:
+Pré-requisitos:
 
 ```bash
 
