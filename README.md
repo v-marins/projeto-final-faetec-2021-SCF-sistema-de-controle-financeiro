@@ -1,4 +1,7 @@
-![Logotipo do projeto](https://github.com/v-marins/projeto-final-FAETEC-2021-SCF-Controle-Financeiro/blob/main/imagens/logo1.png)
+<div align=center>
+ <img width=400 src='https://github.com/v-marins/projeto-final-faetec-2021-SCF-sistema-de-controle-financeiro/blob/ca0c75fb810a91b31a19d86ac751d750b9cdd55b/src/imagens/logoBig.png'/>
+ </div>
+ 
 # SCF Controle Financeiro - Projeto Final FAETEC 2021
 
 ## :link: Índice
