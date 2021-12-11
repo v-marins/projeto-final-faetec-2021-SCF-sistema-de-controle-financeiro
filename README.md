@@ -57,5 +57,4 @@ MySQL versão 8 e MySQL WorkBench 8 CE instalados
 
 
 ## :raising_hand: Autor
-Vinicius Marins
-- [Linkedin](https://www.linkedin.com/in/vinicius-marins/) 
+- **Vinicius Marins** - [Linkedin](https://www.linkedin.com/in/vinicius-marins/) 
