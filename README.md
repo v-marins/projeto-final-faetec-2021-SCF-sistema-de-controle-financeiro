@@ -6,7 +6,7 @@
 
 ## :link: Índice
 
-- [Sobre o Projeto](#Sobre-o-Projeto)
+- [Sobre o Projeto](#dart-sobre-o-projeto)
 - [Introdução](#Introdução)
 - [Layout](#Layout)
 - [Features](#Features)
