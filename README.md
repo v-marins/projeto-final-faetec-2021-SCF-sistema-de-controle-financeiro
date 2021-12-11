@@ -43,9 +43,14 @@ Pré-requisitos:
 
 ```bash
 
-exemplo
-exemplo
-exemplo
+Sistema operacional
+Microsoft Windows 7 Service Pack 2 ou mais recente,Linux ou Mac.
+
+Pacote Java JDK 8 instalado
+
+IDE Netbeans 8.2 instalado
+
+MySQL versão 8 e MySQL WorkBench 8 CE instalados
 
 ```
 
