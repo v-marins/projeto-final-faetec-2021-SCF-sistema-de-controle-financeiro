@@ -9,12 +9,12 @@
 ## :link: Índice
 
 - [Sobre o Projeto](#dart-sobre-o-projeto)
-- [Introdução](#bookmark_tabs-Introdução)
-- [Layout](#art-Layout)
-- [Features](#mega-Features)
-- [Tecnologias Utilizadas](#wrench-Tecnologias-utilizadas)
-- [Como Executar o Projeto](#computer-Como-executar-o-projeto)
-- [Autor](#Autor)
+- [Introdução](#bookmark_tabs-introdução)
+- [Layout](#art-layout)
+- [Features](#mega-features)
+- [Tecnologias Utilizadas](#wrench-tecnologias-utilizadas)
+- [Como Executar o Projeto](#computer-como-executar-o-projeto)
+- [Autor](#raising_hand-autor)
 
 
 ## :dart: Sobre o Projeto
@@ -50,6 +50,6 @@ exemplo
 ```
 
 
-## Autor
+## :raising_hand: Autor
 Vinicius Marins
 Linkedin:
