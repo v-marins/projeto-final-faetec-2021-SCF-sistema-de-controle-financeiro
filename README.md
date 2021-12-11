@@ -32,8 +32,8 @@ Paradigm, O modelo físico do banco foi gerado na própria ferramenta MySQL Work
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/58406515/145662820-0e1bacf2-ee18-41f4-bfb4-dbb570b7c058.png" width="500" />
-  <img src="https://user-images.githubusercontent.com/58406515/145662820-0e1bacf2-ee18-41f4-bfb4-dbb570b7c058.png" width="500" /> 
-  <img src="https://user-images.githubusercontent.com/58406515/145662820-0e1bacf2-ee18-41f4-bfb4-dbb570b7c058.png" width="500" />
+  <img src="https://user-images.githubusercontent.com/58406515/145663344-31927cb3-a38e-49d8-9c0b-5fa27df38791.png" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/58406515/145663369-86497d21-f209-4924-bd1e-e42e2be4f355.png" width="500" />
 </p>
 
 
